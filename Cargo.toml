@@ -1,0 +1,8 @@
+
+[workspace]
+
+members = [
+  "uexl",
+  "uexl_parser",
+  "uexl_functions",
+]
